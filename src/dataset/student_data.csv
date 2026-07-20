@@ -1,0 +1,21 @@
+student_id,attendance,quiz_scores,assignment_scores,exam_scores,hours_studied,performance_level
+STU001,85,78,82,72,6,Good
+STU002,92,88,85,90,8,Excellent
+STU003,65,55,60,48,4,Needs Improvement
+STU004,78,72,75,68,5,Good
+STU005,45,35,40,30,2,Needs Improvement
+STU006,90,85,88,92,7,Excellent
+STU007,70,65,68,62,5,Average
+STU008,88,82,80,85,6,Good
+STU009,60,50,55,45,3,Needs Improvement
+STU010,95,92,90,88,9,Excellent
+STU011,75,70,72,65,5,Average
+STU012,82,78,80,75,6,Good
+STU013,55,45,50,40,3,Needs Improvement
+STU014,89,85,82,80,7,Good
+STU015,72,68,70,65,5,Average
+STU016,93,90,88,85,8,Excellent
+STU017,68,62,65,58,4,Average
+STU018,80,75,78,70,6,Good
+STU019,50,40,45,35,3,Needs Improvement
+STU020,87,83,85,80,7,Good
