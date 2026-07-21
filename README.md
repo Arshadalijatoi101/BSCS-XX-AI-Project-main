@@ -48,3 +48,5 @@ Educational institutions face challenges in:
 Our solution uses **AI/ML** to address these challenges through automated prediction and recommendation.
 
 ---
+
+
