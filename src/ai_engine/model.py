@@ -7,7 +7,6 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from sklearn.preprocessing import LabelEncoder
-
 class AITutorModel:
     model = None
     feature_cols = []
@@ -96,7 +95,6 @@ class AITutorModel:
         
         # Generate recommendation
         recommendation = AITutorModel.generate_recommendation(prediction_label, student_data)
-        
         # Create probabilities dict
         prob_dict = {}
         if AITutorModel.label_encoder:
